@@ -1,2 +1,2 @@
-# ubuntu-ml-setup
-Ubuntu ML setup.
+# Ubuntu ML setup
+
