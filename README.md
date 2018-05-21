@@ -43,7 +43,7 @@ sudo chmod u+w /usr/local/cuda-8.0//include/cudnn.h
 sudo chmod a+r /usr/local/cuda-8.0//lib64/libcudnn*
 ```
 
-# Installing Tensorflow, Keras and OpenCV
+## Installing Tensorflow, Keras and OpenCV
 
 ```
 pip install tensorflow-gpu==1.4 keras opencv-python
